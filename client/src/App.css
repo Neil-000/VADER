@@ -1,0 +1,48 @@
+
+/* src/App.css */
+.app-container {
+  background-color: #141414;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+/* Headings and similar elements use red */
+.text-netflix {
+  color: #e50914 !important;
+}
+
+/* File links will use a dark grey color */
+.file-link {
+  color: #000000 !important;
+  text-decoration: none;
+}
+
+.file-link:hover {
+  text-decoration: underline;
+}
+
+.btn-netflix {
+  background-color: #e50914;
+  border: none;
+  color: #fff;
+}
+
+.btn-netflix:hover {
+  background-color: #f40612;
+}
+
+.bg-netflix {
+  background-color: #e50914 !important;
+}
+
+.progress-netflix .progress-bar {
+  background-color: #e50914;
+}
+
+.segment-item:hover {
+  background-color: #333;
+  cursor: pointer;
+}
+.processing-text {
+  color: #f4f4f4; 
+}

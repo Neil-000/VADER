@@ -1,0 +1,19 @@
+# Node dependencies
+client/node_modules/
+server/node_modules/
+
+# Python virtual environments
+server/venv/
+server/whisper-venv/
+
+# Generated content
+server/uploads/
+server/outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# BFG jar or other tooling
+bfg.jar
+
